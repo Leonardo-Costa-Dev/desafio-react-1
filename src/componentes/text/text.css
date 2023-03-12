@@ -1,0 +1,12 @@
+.text {
+    margin: 50px;
+    padding: 30px;
+    background-color:  #000;
+    text-align: center;
+    font-size: 25px;
+    letter-spacing: 3px;
+}
+
+.text h1 {
+    color: #1720a1;
+}

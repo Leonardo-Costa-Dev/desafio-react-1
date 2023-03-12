@@ -1,0 +1,24 @@
+.btn {
+    text-align: center;
+}
+
+.btn button {
+    width: 250px;
+    height: 80px;
+    font-size: 23px;
+    font-weight: 700;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    border: none;
+    border-radius: 15px;
+    background-color: #050505;
+    color: #1720a1;
+    cursor: pointer;
+    box-shadow: 5px 5px 10px;
+}
+
+.btn button:hover {
+    color: #050505;
+    background-color: #1720a1;
+    transition: 0.6s;
+}
